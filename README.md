@@ -1,5 +1,7 @@
 # AlcohoLert
 
+**(This project was finished on 2022 Aug, the repo showing now is the public version of it (for some credential reasons I cannot make the origin Github repo public))**
+
 An IoT vehicle tracking face recognition device using Raspberry Pi 4 with sensors and an Intel Neural Compute Stick in Python, along with a Kotlin mobile application to track the vehicle.
 
 This is a graduation group project from the National Central Univeristy, MIS major.
@@ -47,6 +49,9 @@ The demo part starts at 1:34
 
 ## Authors
 [j20015798](https://github.com/j20015798)
+
 [TehTing](https://github.com/j20015798)
+
 [andy258741](https://github.com/andy258741)
+
 [Eastern1031](https://github.com/Eastern1031)
