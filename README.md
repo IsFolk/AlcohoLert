@@ -56,3 +56,11 @@ The demo part starts at 1:34
 [andy258741](https://github.com/andy258741)
 
 [Eastern1031](https://github.com/Eastern1031)
+
+## Reference
+
+[Face Recognition With Raspberry Pi and OpenCV](https://reurl.cc/qNAdV0)
+
+[RASPBERRY PI AND MQ-3 GAS SENSOR](https://reurl.cc/O4315R)
+
+[How to read GPS data with Python on a Raspberry Pi](https://reurl.cc/5pWlv)
